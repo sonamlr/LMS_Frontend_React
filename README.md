@@ -29,5 +29,11 @@
 ```
 
     npm run dev
-    
+
 ```
+
+### Setup Tailwind CSS
+
+[ Tailwind official doc for setting up tailwind in react ](https://tailwindcss.com/docs/guides/vite)
+
+
